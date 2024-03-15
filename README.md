@@ -1,7 +1,7 @@
 # flutter-2024-proj
 
 # Project Description
-Agazhe is a mobile application aimed at connecting skilled laborers with clients. The platform will alow clients to post jobs related to electricity ,water maintainance and Tv repair.
+Agazhe (አጋዥ) is a mobile application aimed at connecting skilled laborers with clients. The platform will alow clients to post jobs related to electricity ,water maintainance and Tv repair.
 
 # Planned Features
 # Authentication
