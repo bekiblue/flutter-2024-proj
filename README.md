@@ -1,23 +1,24 @@
 # flutter-2024-proj
 
-### AGAZH
-AGAZH is a mobile application developed using Flutter, aimed at connecting skilled laborers with clients seamlessly. The platform will facilitate job posting by clients and job application by freelancers. With features like authentication, authorization, user registration, and role assignment planned for implementation, AGAZH aims to provide a secure and efficient platform for both clients and freelancers.
+# Project Description
+Agazhe is a mobile application aimed at connecting skilled laborers with clients. The platform will alow clients to post jobs related to electricity ,water maintainance and Tv repair.
 
 # Planned Features
 # Authentication
-Implement robust authentication mechanisms to ensure secure access to the platform. Users will be able to log in securely using their credentials.
-
+The users of the application will be authenticated by their email and password .
 # Authorization
-Control access to different features and functionalities within the app based on user roles and permissions.
-
+Clients will be authorized to post a job .
+The laborers will be allowed to apply for a job.
 # User Registration
-Enable new users to register on AGAZH by providing necessary information such as email, password, and profile details.
+Enable new clients and laborers to register on Agazhe by providing necessary information such as email, password, and profile details.
 
 # Role Assignment
-Assign roles to users based on their profiles and preferences. Distinguish between clients and freelancers with their set of privileges and access levels.
+There are two roles. 
+Clients and Laborers
+# Features
+There are two main features:
+##  1.Job Posting
+Allow clients to post job requirements on Agazhe, specifying details such as job title, description, required skills, budget, and deadline.
 
-# Job Posting
-Allow clients to post job requirements on AGAZH, specifying details such as job title, description, required skills, budget, and deadline.
-
-# Job Application
-Enable freelancers to browse through job listings and apply for the ones that match their skills and interests.
+# 2.Job Application
+Enable laborers to browse through job listings and apply for the ones that match their skills and interests.
