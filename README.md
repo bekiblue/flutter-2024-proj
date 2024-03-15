@@ -17,4 +17,10 @@ Agazhe offers two main features to its users:
 
 1.  Job Posting: This feature allows clients to create and post job listings on the Agazhe platform. Clients can specify details such as the title of the job, a description of the task, required skills, budget, and deadline. 
 
-2.  Job Application: The job application feature enables laborers to browse through the job listings posted by clients. Laborers can review the details of each job, including requirements and deadlines, and apply for the ones that match their skills and interests. 
+2.  Job Application: The job application feature enables laborers to browse through the job listings posted by clients. Laborers can review the details of each job, including requirements and deadlines, and apply for the ones that match their skills and interests.
+3.  
+## Group Members
+| Member Name    | ID |
+|--------------|:-----:|
+| 1. Bereket Asnake | UGR/9574/12 |     
+
