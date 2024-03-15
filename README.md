@@ -1,26 +1,22 @@
-# flutter-2024-proj
-
 # Project Description
-Agazhe (አጋዥ) is a mobile application aimed at connecting skilled laborers with clients. The platform will alow clients to post jobs related to electricity ,water maintainance and Tv repair.
+Agazhe (አጋዥ) is a mobile application designed to facilitate connections between skilled laborers and clients. The primary objective of the platform is to streamline the process of hiring skilled professionals for tasks related to electricity, water maintenance, and TV repair.
 
-# Authentication
-The users of the application will be authenticated by their email and password .
-# Authorization
-Clients will be authorized to post a job .
-The laborers will be allowed to apply for a job.
-# User Registration
-Enable new clients and laborers to register on Agazhe by providing necessary information such as email, password, and profile details.
+## Authentication
+Users will log in using their registered email address and password. This ensures that only authorized individuals can access the features and functionalities of the app.
 
-# Role Assignment
-There are two roles. 
-Clients and Laborers
-# Features
-There are two main features:
+## Authorization
+Clients will have the authorization to post job listings, while laborers will have the authorization to apply for these jobs. This distinction ensures that users can perform only the actions relevant to their role.
 
-1. Job Posting : Allow clients to post job requirements on Agazhe, specifying details such as job title, description, required skills, budget, and deadline.
+## User Registration
 
-2. Job Application : Enables laborers to browse through job listings and apply for the ones that match their skills and interests.
-## Group Members
-| Member Name    | ID |
-|--------------|:-----:|
-| 1.Bereket Asnake | UGR/9574/12 |     
+Agazhe will enable both clients and laborers to register by providing necessary information such as their email address, password, and additional profile details. This step is essential for creating personalized user accounts and facilitating interactions within the platform.
+
+## Role Assignment
+Agazhe distinguishes between two primary roles: clients and laborers. Clients are individuals or businesses seeking skilled labor for specific tasks, while laborers are skilled professionals offering their services. Assigning roles helps streamline the user experience and ensures that users have access to the features relevant to their needs.
+
+## Features
+Agazhe offers two main features to its users:
+
+1.  Job Posting: This feature allows clients to create and post job listings on the Agazhe platform. Clients can specify details such as the title of the job, a description of the task, required skills, budget, and deadline. Job posting enables clients to attract suitable laborers for their projects.
+
+2.  Job Application: The job application feature enables laborers to browse through the job listings posted by clients. Laborers can review the details of each job, including requirements and deadlines, and apply for the ones that match their skills and interests. This feature empowers laborers to find and apply for relevant job opportunities efficiently.
