@@ -17,14 +17,9 @@ There are two roles.
 Clients and Laborers
 # Features
 There are two main features:
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-- 1.Job Posting
-Allow clients to post job requirements on Agazhe, specifying details such as job title, description, required skills, budget, and deadline.
+1.Job Posting : Allow clients to post job requirements on Agazhe, specifying details such as job title, description, required skills, budget, and deadline.
 
-- 2.Job Application
-Enable laborers to browse through job listings and apply for the ones that match their skills and interests.
+2. Job Application : Enables laborers to browse through job listings and apply for the ones that match their skills and interests.
 ## Group Members
 | Member Name    | ID |
 |--------------|:-----:|
