@@ -3,7 +3,6 @@
 # Project Description
 Agazhe (አጋዥ) is a mobile application aimed at connecting skilled laborers with clients. The platform will alow clients to post jobs related to electricity ,water maintainance and Tv repair.
 
-# Planned Features
 # Authentication
 The users of the application will be authenticated by their email and password .
 # Authorization
