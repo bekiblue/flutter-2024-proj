@@ -22,3 +22,7 @@ Allow clients to post job requirements on Agazhe, specifying details such as job
 
 # 2.Job Application
 Enable laborers to browse through job listings and apply for the ones that match their skills and interests.
+## Group Members
+| Member Name    | ID |
+|--------------|:-----:|
+| 1.Bereket Asnake | UGR/9574/12 |     
